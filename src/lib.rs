@@ -48,6 +48,7 @@
 #![feature(sized_hierarchy)]
 
 extern crate rustc_abi;
+extern crate rustc_crate_store;
 extern crate rustc_hir;
 extern crate rustc_middle;
 extern crate rustc_public_bridge;
